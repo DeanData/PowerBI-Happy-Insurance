@@ -3,7 +3,6 @@
 ## **Objective**
 ### Creating BI dashboards for an insurance company and present findinds
 
-**Note: presntation a 
 
 **Project Stages:**
 1. ETL process
@@ -38,6 +37,8 @@
      - SamePeriodLastYear
      - Variables
    - Conclusions and recommendations presntation 
+
+## Dashboard examples:
 
 ![image](https://user-images.githubusercontent.com/83536999/117278834-c8e23880-ae69-11eb-9f91-b0f3753edf1c.png)
 
